@@ -1,0 +1,5 @@
+{
+    "actions": [],
+    "[xml].editor.defaultFormatter": "mblode.pretty-formatter",
+    "[javascript].editor.defaultFormatter": "vscode.typescript-language-features"
+}
